@@ -3,8 +3,8 @@
 import urllib, urllib2, cookielib
 
 #global variables
-USER_NAME = "wuchao"
-USER_PASSWD = "123456"
+USER_NAME = ""
+USER_PASSWD = ""
 LOGIN_URL = "http://172.18.90.155/portal/j_spring_security_check"
 LOGIN = "http://172.18.90.155/portal/site/whxd/login.jsp"
 
